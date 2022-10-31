@@ -1,4 +1,5 @@
 # Citi-Bike-Analytics
 
+## Steps to Analysis(Download, extract, cleaning data, import to Tableau)
 * Downloaded the zipped files from Jan 2018- Sep 2022 from [City Bike Data](https://ride.citibikenyc.com/system-data)
 * By Using the Windows PowerShell wrote a script to extract 57 csv files directly to a folder. [Extraction Process](https://stackoverflow.com/questions/28448202/i-want-to-extract-all-zip-files-in-a-given-directory-in-temp-using-powershell)
