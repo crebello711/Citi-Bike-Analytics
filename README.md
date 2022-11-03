@@ -8,7 +8,7 @@
 ## Analysis in Tableau
 * How many trips have been recorded in total during the chosen period per ride_id?
   
-  `The horizontal bar chart shows the trip duration in minutes per each ride_id.` 
+  `The horizontal bar chart shows the trip duration records in minutes per each ride_id.` 
 
 * What are the peak hours when bikes are used during the summer months and winter months?
   
