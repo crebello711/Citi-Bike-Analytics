@@ -6,14 +6,17 @@
 * Imported data from Jan 2018 to Sep 2022 but data analysis performed only on the data captured from `Feb 1st 2021 to Sep 30th 2022`
 
 ## Analysis in Tableau
-* How many trips have been recorded in total during the chosen period?
+* How many trips have been recorded in total during the chosen period per ride_id?
   
-  This has been answered by showing a horizontal bar chart showing trip duration in minutes per each ride_id. 
+  The horizontal bar chart shows the trip duration in minutes per each ride_id. 
 
-* What are the peak hours when bikes are used during the summer months?
-* What are the peak hours when bikes are used during the winter months?
-* Today, what are the top 10 stations in the city for ending a journey?
-* Today, what are the bottom 10 stations in the city for starting a journey?
+* What are the peak hours when bikes are used during the summer months and winter months?
+  
+  The peak hour time of the day for member ride is the highest around 8 am in the morning and 6 pm in evening. Well these two time points are expected to be high since     they are the peak hours for travelling to work. A similar trend is also observed in winter months except that the winter reduce the moment of riders. There is a huge     decline in the member count line graph for winter months.
+
+* Today, what are the top 10 stations and bottom 10 stations in the city for starting a journey?
+
+  
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-
+  The 
 ## Dashboard
