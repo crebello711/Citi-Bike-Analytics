@@ -30,6 +30,6 @@
       
      
      
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-  The 
+* Which bike (by ID) are most likely due for repair or inspection in the timespan?
+  The ids that are marked in shade or red and orange needs a repair or inspection.
 ## Dashboard
