@@ -7,7 +7,9 @@
 
 ## Analysis in Tableau
 * How many trips have been recorded in total during the chosen period?
+  
   This has been answered by showing a horizontal bar chart showing trip duration in minutes per each ride_id. 
+
 * What are the peak hours when bikes are used during the summer months?
 * What are the peak hours when bikes are used during the winter months?
 * Today, what are the top 10 stations in the city for ending a journey?
