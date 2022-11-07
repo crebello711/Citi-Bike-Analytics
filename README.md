@@ -19,15 +19,6 @@
 
 * Top 10 stations and bottom 10 stations in the city for starting a journey?
 `Top 10 stations for starting journey`
-     1. Grove St PATH
-     2. South Waterfront Walkway - Sinatra Dr & 1 St
-     3. Hoboken Terminal - Hudson St & Hudson Pl
-     4. Hoboken Terminal - River St & Hudson Pl
-     5. Newport Pkwy
-     6. Hamilton Park
-     7. Newport PATH
-     8. Marin Light Rail
-     9. Hoboken Ave at Monmouth St
-     10. Columbus Dr at Exchange Pl
+![image](https://user-images.githubusercontent.com/107435952/200428077-06418647-32a7-44a3-bc12-8bf8a0fa3c3d.png)
 
 
