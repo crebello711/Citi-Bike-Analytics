@@ -22,5 +22,7 @@
 ![image](https://user-images.githubusercontent.com/107435952/200428848-a801cd72-177f-4a26-8f32-58bc867fb0e9.png)
 
 * Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-
 ![image](https://user-images.githubusercontent.com/107435952/200428532-1082539f-9e79-4e65-a881-8c0ef28a8f6b.png)
+
+
+![Tableau Public Workbook Link](https://public.tableau.com/app/profile/christabel1108/viz/CitiBikeAnalysis_16673620780390/CitiBikeStory?publish=yes)
