@@ -15,6 +15,7 @@
 * What are the peak hours when bikes are used during the summer months and winter months?
   
   `The peak hour time of the day for member ride is the highest around 8 am in the morning and 6 pm in evening. Well these two time points are expected to be high since they are the peak hours for travelling daily to work. A similar trend is also observed in winter months except that the winter reduce the moment of riders so we see a decline in the member count for winter months.`
+  ![image](https://user-images.githubusercontent.com/107435952/200427680-ac063705-1f9e-40be-8835-5fcc32df0721.png)
 
 * Top 10 stations and bottom 10 stations in the city for starting a journey?
 `Top 10 stations for starting journey`
