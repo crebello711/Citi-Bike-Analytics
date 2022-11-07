@@ -8,7 +8,7 @@
 ## Phenomenon Visualization
 * How many trips have been recorded in total during the chosen period by duration?
   
-  `The tree chart shows the trip duration records in minutes per each ride_id.` 
+  `The multiple charts below shows the trip duration records in minutes per each ride_id.` 
   ![image](https://user-images.githubusercontent.com/107435952/200425380-23f2559f-feaa-4702-9153-7bafc6476f5b.png)
 
 
@@ -21,4 +21,6 @@
 `Top 10 stations for starting journey`
 ![image](https://user-images.githubusercontent.com/107435952/200428077-06418647-32a7-44a3-bc12-8bf8a0fa3c3d.png)
 
+* Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
+![image](https://user-images.githubusercontent.com/107435952/200428532-1082539f-9e79-4e65-a881-8c0ef28a8f6b.png)
