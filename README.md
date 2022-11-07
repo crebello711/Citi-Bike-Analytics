@@ -1,6 +1,8 @@
 # Citi-Bike-Analytics
 
-## Steps to Analysis(Download, extract, cleaned data, import to Tableau)
+## [Tableau Public Workbook Link](https://public.tableau.com/app/profile/christabel1108/viz/CitiBikeAnalysis_16673620780390/CitiBikeStory?publish=yes)
+
+## Steps taken to Analysis(Download, extract, cleaned data, import to Tableau)
 * Downloaded the zipped files from Jan 2018- Sep 2022 from [City Bike Data](https://ride.citibikenyc.com/system-data)
 * By Using the Windows PowerShell wrote a script to extract 57 csv files directly to a folder. [Extraction Process](https://stackoverflow.com/questions/28448202/i-want-to-extract-all-zip-files-in-a-given-directory-in-temp-using-powershell)
 * Imported data from Jan 2018 to Sep 2022 but data analysis performed only on the data captured from `Feb 1st 2021 to Sep 30th 2022`
@@ -25,4 +27,4 @@
 ![image](https://user-images.githubusercontent.com/107435952/200428532-1082539f-9e79-4e65-a881-8c0ef28a8f6b.png)
 
 
-[Tableau Public Workbook Link](https://public.tableau.com/app/profile/christabel1108/viz/CitiBikeAnalysis_16673620780390/CitiBikeStory?publish=yes)
+
