@@ -25,4 +25,4 @@
 ![image](https://user-images.githubusercontent.com/107435952/200428532-1082539f-9e79-4e65-a881-8c0ef28a8f6b.png)
 
 
-![Tableau Public Workbook Link](https://public.tableau.com/app/profile/christabel1108/viz/CitiBikeAnalysis_16673620780390/CitiBikeStory?publish=yes)
+[Tableau Public Workbook Link](https://public.tableau.com/app/profile/christabel1108/viz/CitiBikeAnalysis_16673620780390/CitiBikeStory?publish=yes)
